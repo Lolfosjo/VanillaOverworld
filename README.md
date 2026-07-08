@@ -7,9 +7,10 @@ Required PHP Extensions:
 * GMP
 * VoOverworld Noise Extension (Built by AI)
   
-Link: soon...
+https://github.com/Lolfosjo/VanillaOverworld-Noises
+
 * Xoroshiro (Small xoroshiro port, built by ai)
   
-Link: soon...
+https://github.com/Lolfosjo/Xoroshiro-VanillaOverworld
 
 > Note: This project was an experiment and is no longer actively developed. I won't be working on it further.
