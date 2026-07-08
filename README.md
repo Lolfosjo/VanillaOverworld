@@ -6,8 +6,10 @@ Required PHP Extensions:
 
 * GMP
 * VoOverworld Noise Extension (Built by AI)
+  
 Link: soon...
 * Xoroshiro (Small xoroshiro port, built by ai)
+  
 Link: soon...
 
 > Note: This project was an experiment and is no longer actively developed. I won't be working on it further.
