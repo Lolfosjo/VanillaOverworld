@@ -1,0 +1,5 @@
+name: VanillaOverworld
+version: 1.0-ALPHA
+author: Lolfosjo
+main: lolfosjo\voverworld\Main
+api: 5.0.0
