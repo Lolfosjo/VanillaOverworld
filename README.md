@@ -6,11 +6,11 @@ An experiment out of boredom, where I tried to port the world generator of Power
 
 ![1](pictures/dingsbums1.png)
 
-![2](images/dingsbums2.png)
+![2](pictures/dingsbums2.png)
 
-![3](images/dingsbums3.png)
+![3](pictures/dingsbums3.png)
 
-![4](images/dingsbums4.png)
+![4](pictures/dingsbums4.png)
 
 Required PHP Extensions:
 
