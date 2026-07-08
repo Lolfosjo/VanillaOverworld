@@ -2,6 +2,16 @@
 
 An experiment out of boredom, where I tried to port the world generator of PowerNukkitX/Vanilla Minecraft together with Deepseek and Claude Sonnet.
 
+## Screenshots
+
+![](pictures/dingsbums1.png)
+
+![](images/dingsbums2.png)
+
+![](images/dingsbums3.png)
+
+![](images/dingsbums4.png)
+
 Required PHP Extensions:
 
 * GMP
